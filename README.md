@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://i.ibb.co.com/v2vkp96/banner-Img1.png"  />
+  <img height="500" src="https://github.com/Soraiya11-7/Soraiya11-7/blob/main/bannerImg1.png"  />
 </div>
 
 ## Hi there 👋
