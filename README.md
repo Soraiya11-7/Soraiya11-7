@@ -4,8 +4,11 @@
 
 ###
 
-<h1 align="center">Hi👋 , I am Soraya Parvin</h1>
-<h2 align="center">Frontend Developer</h2>
+<div align="center">
+  <h1 >Hi👋 , I am Soraya Parvin</h1>
+<h2 >Frontend Developer</h2>
+</div>
+
 
 
 
