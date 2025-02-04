@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1 >Hi👋 , I am Soraya Parvin</h1>
-<h2 >Frontend Developer</h2>
+ <h2 style="font-size: 20px; margin-top: -10px;">Frontend Developer</h2>
 </div>
 
 
