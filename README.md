@@ -1,6 +1,8 @@
-<div align="center" weight=100%>
-  <img height="500"  weight=100% src="https://github.com/Soraiya11-7/Soraiya11-7/blob/main/bannerImg1.png"  />
+<div align="center" style="width: 100%; overflow: hidden;">
+  <img src="https://github.com/Soraiya11-7/Soraiya11-7/blob/main/bannerImg1.png" 
+       style="width: 100%; height: 500px; object-fit: cover;" />
 </div>
+
 
 ###
 
