@@ -5,9 +5,9 @@
 ###
 
 <div align="center">
-  <h1 >Hi👋 , I am Soraya Parvin</h1>
- <h2 style="font-size: 20px; margin-top: -10px;">Frontend Developer</h2>
+  <h1>Hi👋 , I am Soraya Parvin<br /><span style="font-size: 20px;">Frontend Developer</span></h1>
 </div>
+
 
 
 
