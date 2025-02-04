@@ -2,17 +2,6 @@
   <img height="500" src="https://i.ibb.co.com/v2vkp96/banner-Img1.png"  />
 </div>
 
-###
-
-<p align="left"></p>
-
-###
-
-###
-
-<p align="left"></p>
-
-
 ## Hi there 👋
 
 <!--
