@@ -13,7 +13,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soraiya11-7&layout=compact)
 
 #### Streak Data
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soraiya11-7)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Soraiya11-7)(https://git.io/streak-stats)
 
 
 <!--
