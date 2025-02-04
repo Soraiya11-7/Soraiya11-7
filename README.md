@@ -1,7 +1,6 @@
-
-  <img src="https://i.ibb.co.com/8gTrQHCG/image2.jpg" alt="Banner" width="100%">
-
-
+<div align="center">
+  <img height="480" src="https://i.ibb.co.com/XfZgJ403/Top-20-React-Libraries-and-Frameworks.jpg"  />
+</div>
 
 ## Hi there 👋
 
