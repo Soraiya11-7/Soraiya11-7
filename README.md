@@ -5,10 +5,9 @@
 ###
 
 <h1 align="center">Hi👋 , I am Soraya Parvin</h1>
-
-###
-
 <h2 align="center">Frontend Developer</h2>
+
+
 
 ###
 
