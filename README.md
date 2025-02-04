@@ -1,3 +1,11 @@
+<div style="position: relative; width: fit-content;">
+  <img src="https://i.ibb.co.com/8gTrQHCG/image2.jpg" alt="Banner" width="100%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" 
+       style="position: absolute; bottom: 10px; right: 60px; width: 50px; height: 50px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind Logo" 
+       style="position: absolute; bottom: 10px; right: 10px; width: 50px; height: 50px;">
+</div>
+
 ## Hi there 👋
 
 <!--
