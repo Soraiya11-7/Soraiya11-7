@@ -13,6 +13,11 @@
 
 
 ###
+<div align="center">
+  <p style="font-size: 36px; margin: 0;">Hi👋 , I am Soraya Parvin</p>
+  <p style="font-size: 20px; margin: 0;">Frontend Developer</p>
+</div>
+
 
 <h2 align="center">About me</h2>
 
