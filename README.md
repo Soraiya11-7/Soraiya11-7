@@ -19,7 +19,9 @@
 ###
 
 <h2 align="center">My GitHub Stats</h2>
+
 #### Streak Data
+
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Soraiya11-7&theme=github-dark)
 
 #### Number of Contributions
