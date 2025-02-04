@@ -1,4 +1,8 @@
-![Banner](https://raw.githubusercontent.com/Soraiya11-7/Soraiya11-7/main/bannerImg1.png)
+<div align="center" style="width: 100%; overflow: hidden;">
+  <img src="https://raw.githubusercontent.com/Soraiya11-7/Soraiya11-7/main/bannerImg1.png"
+       style="width: 100%; height: auto; object-fit: cover;" />
+</div>
+
 
 
 <div align="center" style="width: 100%; overflow: hidden;">
