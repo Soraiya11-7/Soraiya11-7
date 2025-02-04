@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="550" src="https://github.com/Soraiya11-7/Soraiya11-7/blob/main/bannerImg1.png"  />
+  <img height="450" src="https://github.com/Soraiya11-7/Soraiya11-7/blob/main/bannerImg1.png"  />
 </div>
 
 ## Hi there 👋
