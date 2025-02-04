@@ -18,6 +18,16 @@
 
 ###
 
+<h2 align="center">My GitHub Stats</h2>
+#### Streak Data
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Soraiya11-7&theme=github-dark)
+
+#### Number of Contributions
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Soraiya11-7&show_icons=true&count_private=true&theme=dark)
+
+#### Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soraiya11-7&layout=compact&theme=dark)
+
 <h2 align="center">I code with</h2>
 
 ###
@@ -95,30 +105,30 @@
 
 <div align="center">
 <a href="https://www.facebook.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="40" alt="facebook logo" />
 </a>
 <img width="12" />
 
 <a href="https://www.linkedin.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo" />
 </a>
 
 </div>
 
 ###
 
-<h2 align="center">My GitHub Stats</h2>
 
-###
 
-#### Number of Contributions
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Soraiya11-7&show_icons=true&count_private=true&theme=dark)
 
-#### Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soraiya11-7&layout=compact&theme=dark)
 
-#### Streak Data
-![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Soraiya11-7&theme=github-dark)
+
+
+
+
+
+
+
+
 
 
 <!--
