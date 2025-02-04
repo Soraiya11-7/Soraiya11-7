@@ -4,6 +4,18 @@
 
 ## Hi there 👋
 
+### Relevant GitHub Stats:
+
+#### Number of Contributions
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Soraiya11-7&show_icons=true&count_private=true)
+
+#### Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soraiya11-7&layout=compact)
+
+#### Streak Data
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soraiya11-7)
+
+
 <!--
 **Soraiya11-7/Soraiya11-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
