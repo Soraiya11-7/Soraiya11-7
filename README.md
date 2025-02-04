@@ -38,12 +38,12 @@
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
 </a>
-<img width="12" />
+
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
 </a>
-<img width="12" />
+
 
 <a href="https://en.cppreference.com/w/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
