@@ -97,10 +97,10 @@
 ###
 
 #### Number of Contributions
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Soraiya11-7&show_icons=true&count_private=true&theme=github-dark)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Soraiya11-7&show_icons=true&count_private=true&theme=dark)
 
 #### Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soraiya11-7&layout=compact&theme=github-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soraiya11-7&layout=compact&theme=dark)
 
 #### Streak Data
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Soraiya11-7&theme=github-dark)
