@@ -29,7 +29,8 @@
 <div align="center">
   <h2>
     My GitHub Stats 
-    <img src="https://cdn.jsdelivr.net/gh/MartinLush/animated-icons@latest/icons/github/github-animated-icon.svg" height="32" style="vertical-align: middle;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="32" style="vertical-align: middle;" />
+  </h2>
   </h2>
 
   <h4>Streak Data</h4>
