@@ -12,7 +12,7 @@
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" style="vertical-align: middle;" />
     , I am Soraya Parvin
   </h1>
-  <span style="font-size: 16px;">A passionate Frontend Developer from 🇧🇩</span>
+  <span style="font-size: 20px;">A passionate Frontend Developer from 🇧🇩</span>
 </div>
 
 
