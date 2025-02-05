@@ -54,64 +54,24 @@
 ## :rocket: **I Code With**
 
 <div align="center">
-  <!-- Frontend and Backend -->
-  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
-    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://en.cppreference.com/w/" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  </a>
+  [<img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
+  [<img align="left" alt="JavaScript" width="40px" src="https://skillicons.dev/icons?i=js" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img align="left" alt="Tailwind CSS" width="40px" src="https://skillicons.dev/icons?i=tailwind" style="padding-right:10px;" />](https://tailwindcss.com/)
+  [<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [<img align="left" alt="MongoDB" width="40px" src="https://skillicons.dev/icons?i=mongodb" style="padding-right:10px;" />](https://www.mongodb.com/)
+  [<img align="left" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />](https://en.cppreference.com/w/)
+  [<img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/C_(programming_language))
 </div>
 
 ## :wrench: **Tools**
 
 <div align="center">
-  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
-  </a>
+  [<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
+  [<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
+  [<img align="left" alt="MATLAB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />](https://www.mathworks.com/products/matlab.html)
 </div>
+
 
 
 
