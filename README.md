@@ -21,7 +21,7 @@
 <h2 align="center">About me</h2>
 
 ###
-<p className="text-lg mb-6">
+<p className="text-lg mb-8">
   I am a passionate developer with a strong interest in creating user-friendly applications. My journey in programming began with learning the fundamentals, and now I specialize in front-end development with React, JavaScript, and Tailwind CSS. In my free time, I enjoy reading religious books, spending quality time with close friends, playing badminton, and solving puzzle games. These hobbies help me stay balanced and inspired. I believe in continuous learning and enjoy working on projects that challenge me to improve my skills. I'm always eager to explore new technologies and improve my craft.
 </p>
 
@@ -32,8 +32,7 @@
 - :arrow_right: I am improving my backend skills with Node.js and MongoDB to work on full-stack applications.
 
 
-<p className="text-xl mb-6">Current Activities</p>
-<p align="left">✨ Creating bugs since ...<br>📚 I  am exploring Next.js<br>🎯 Goals: Design impactful web experiences that meet user needs.<br>🎲Fun fact: I like and enjoy puzzle games both online and offline.</p>
+<p className=" mt-6" align="left">✨ Creating bugs since ...<br>📚 I  am exploring Next.js<br>🎯 Goals: Design impactful web experiences that meet user needs.<br>🎲Fun fact: I like and enjoy puzzle games both online and offline.</p>
 
 ###
 
