@@ -98,6 +98,24 @@
 <h2 align="left">Connect With Me</h2>
 
 ###
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.facebook.com/sp.jainab.7" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="40" alt="facebook logo" />
+  </a>
+
+  <a href="https://in.linkedin.com/in/vidyabhandary" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vidyabhandary" />
+  </a>
+
+  <a href="https://in.linkedin.com/in/vidyabhandary" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vidyabhandary" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mt-soraya-parvin-847591336/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo" />
+  </a>
+</div>
+
 
 <p align="center">
 <a href="https://www.facebook.com/sp.jainab.7" target="_blank">
