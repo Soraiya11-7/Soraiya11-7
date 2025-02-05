@@ -54,42 +54,42 @@
 
 <div align="center">
   <!-- Frontend and Backend -->
-  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;">
+  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   </a>
   <img width="12" />
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   </a>
   <img width="12" />
 
-  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;">
+  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
     <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
   </a>
   <img width="12" />
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   </a>
   <img width="12" />
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   </a>
   <img width="12" />
 
-  <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;">
+  <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
     <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
   </a>
   <img width="12" />
 
-  <a href="https://en.cppreference.com/w/" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;">
+  <a href="https://en.cppreference.com/w/" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
   </a>
   <img width="12" />
 
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   </a>
 </div>
@@ -97,20 +97,21 @@
 ## :wrench: **Tools**
 
 <div align="center">
-  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;">
+  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   </a>
   <img width="12" />
 
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;">
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   </a>
   <img width="12" />
 
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;">
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" style="text-decoration: none; outline: none; border: none; box-shadow: none;" onfocus="this.style.boxShadow='none'; this.style.outline='none';">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
   </a>
 </div>
+
 
 
 
