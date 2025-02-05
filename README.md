@@ -115,12 +115,12 @@
 ###
 
 <div align="center">
-<a href="https://www.facebook.com" target="_blank">
+<a href="https://www.facebook.com/sp.jainab.7" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="40" alt="facebook logo" />
 </a>
 <img width="12" />
 
-<a href="https://www.linkedin.com" target="_blank">
+<a href="https://www.linkedin.com/in/mt-soraya-parvin-847591336/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo" />
 </a>
 
