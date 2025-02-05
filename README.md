@@ -18,7 +18,7 @@
 
 
 
-<h2 align="center">:bust_in_silhouette: About me</h2>
+<h2 align="left">:bust_in_silhouette: About me</h2>
 
 ###
 <p className="text-lg mb-8">
@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <h2>
+  <h2 align="left">
     My GitHub Stats 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="32" style="vertical-align: middle;" />
   </h2>
@@ -116,7 +116,7 @@
 
 
 
-<h2 align="center">Connect With Me</h2>
+<h2 align="left">Connect With Me</h2>
 
 ###
 
