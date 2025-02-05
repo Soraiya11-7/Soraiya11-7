@@ -53,7 +53,7 @@
 
 ## :rocket: **I Code With**
 
-<div align="center">
+<p align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="40" alt="React" />
   </a>
@@ -78,11 +78,11 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40" alt="C" />
   </a>
-</div>
+</p>
 
 ## :wrench: **Tools**
 
-<div align="center">
+<p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="40" alt="Visual Studio Code" />
   </a>
@@ -92,14 +92,14 @@
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
     <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" height="40" alt="MATLAB" />
   </a>
-</div>
+</p>
 
 
 <h2 align="left">Connect With Me</h2>
 
 ###
 
-<div align="center">
+<p align="center">
 <a href="https://www.facebook.com/sp.jainab.7" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="40" alt="facebook logo" />
 </a>
@@ -116,7 +116,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo" />
 </a>
 
-</div>
+</p>
 
 ###
 
