@@ -25,7 +25,7 @@
   I am a passionate developer with a strong interest in creating user-friendly applications. My journey in programming began with learning the fundamentals, and now I specialize in front-end development with React, JavaScript, and Tailwind CSS. In my free time, I enjoy reading religious books, spending quality time with close friends, playing badminton, and solving puzzle games. These hobbies help me stay balanced and inspired. I believe in continuous learning and enjoy working on projects that challenge me to improve my skills. I'm always eager to explore new technologies and improve my craft.
 </p>
 
-## :zap: **Current Activities:**
+ :zap: **Current Activities:**
 
 - :arrow_right: I am exploring Next.js for building fast and scalable web applications.
 - :arrow_right: I’m working on improving my front-end skills with React and Tailwind CSS to create dynamic and responsive designs.
