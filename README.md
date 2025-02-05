@@ -54,7 +54,7 @@
 ## :rocket: **I Code With**
 
 <div align="center">
-  [<img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   [<img align="left" alt="JavaScript" width="40px" src="https://skillicons.dev/icons?i=js" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [<img align="left" alt="Tailwind CSS" width="40px" src="https://skillicons.dev/icons?i=tailwind" style="padding-right:10px;" />](https://tailwindcss.com/)
   [<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
