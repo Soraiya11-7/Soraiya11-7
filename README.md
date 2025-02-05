@@ -96,7 +96,7 @@
 </p>
 
 
-<h2 align="left">Connect With Me</h2>
+<h2 align="left"> :handshake: Connect With Me</h2>
 
 ###
 
