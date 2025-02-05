@@ -28,8 +28,8 @@
  :zap: **Current Activities:**
 
 - 📚 I am exploring Next.js for building fast and scalable web applications.
-- ✨: I’m working on improving my front-end skills with React and Tailwind CSS to create dynamic and responsive designs.
-- ✨: I am improving my backend skills with Node.js and MongoDB to work on full-stack applications.
+- ✨ I’m working on improving my front-end skills with React and Tailwind CSS to create dynamic and responsive designs.
+- ✨ I am improving my backend skills with Node.js and MongoDB to work on full-stack applications.
 
 
 <p className=" mt-6" align="left">✨ Creating bugs since ...<br>📚 I  am exploring Next.js<br>🎯 Goals: Design impactful web experiences that meet user needs.<br>🎲Fun fact: I like and enjoy puzzle games both online and offline.</p>
