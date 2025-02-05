@@ -26,17 +26,22 @@
 
 ###
 
-<h2 align="center">My GitHub Stats</h2>
+<div align="center">
+  <h2>
+    My GitHub Stats 
+    <img src="https://cdn.jsdelivr.net/gh/MartinLush/animated-icons@latest/icons/github/github-animated-icon.svg" height="32" style="vertical-align: middle;" />
+  </h2>
 
-#### Streak Data
+  <h4>Streak Data</h4>
+  <img src="https://nirzak-streak-stats.vercel.app?user=Soraiya11-7&theme=github-dark" alt="GitHub Streak" />
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Soraiya11-7&theme=github-dark)
+  <h4>Number of Contributions</h4>
+  <img src="https://github-readme-stats.vercel.app/api?username=Soraiya11-7&show_icons=true&count_private=true&theme=dark" alt="GitHub Contributions" />
 
-#### Number of Contributions
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Soraiya11-7&show_icons=true&count_private=true&theme=dark)
+  <h4>Languages Used</h4>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soraiya11-7&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
-#### Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soraiya11-7&layout=compact&theme=dark)
 
 <h2 align="center">I code with</h2>
 
