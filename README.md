@@ -96,7 +96,7 @@
 </p>
 
 
-<h2 align="left">![Network Icon](https://img.icons8.com/ios-filled/50/000000/network.png) Connect With Me</h2>
+<h2 align="left">Connect With Me</h2>
 
 ###
 
