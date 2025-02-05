@@ -53,8 +53,8 @@
 
 ## :rocket: **I Code With**
 
-### Frontend
 <div align="center">
+  <!-- Frontend and Backend -->
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" style="border: none; outline: none; display: inline-block;" />
   </a>
@@ -79,17 +79,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" style="border: none; outline: none; display: inline-block;" />
   </a>
   <img width="12" />
-</div>
 
-### Backend
-<div align="center">
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" style="border: none; outline: none; display: inline-block;" />
   </a>
-</div>
+  <img width="12" />
 
-### Programming Languages
-<div align="center">
   <a href="https://en.cppreference.com/w/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" style="border: none; outline: none; display: inline-block;" />
   </a>
@@ -117,6 +112,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" style="border: none; outline: none; display: inline-block;" />
   </a>
 </div>
+
 
 
 <h2 align="center">Connect With Me</h2>
