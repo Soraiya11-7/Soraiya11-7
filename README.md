@@ -7,9 +7,14 @@
 ###
 
 <div align="center">
-  <h1>Hi<img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1> , I am Soraya Parvin<br /><span style="font-size: 16px;">Frontend Developer</span></h1>
+  <h1>
+    Hi 
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" style="vertical-align: middle;" />
+    , I am Soraya Parvin
+  </h1>
+  <span style="font-size: 16px;">Frontend Developer</span>
 </div>
+
 
 
 
