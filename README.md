@@ -22,7 +22,7 @@
 
 ###
 <p className="text-lg mb-8">
-  I am a passionate developer with a strong interest in creating user-friendly applications. My journey in programming began with learning the fundamentals, and now I specialize in front-end development with React, JavaScript, and Tailwind CSS. In my free time, I enjoy reading religious books, spending quality time with close friends, playing badminton, and solving puzzle games. These hobbies help me stay balanced and inspired. I believe in continuous learning and enjoy working on projects that challenge me to improve my skills. I'm always eager to explore new technologies and improve my craft.
+ I am a passionate developer specializing in front-end development with React, JavaScript, and Tailwind CSS. I believe in continuous learning and enjoy working on challenging projects. In my free time, I like reading religious books and solving puzzles, which help me stay balanced and inspired. I am always eager to explore new technologies and improve my craft.
 </p>
 
  :zap: **Current Activities:**
