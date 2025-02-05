@@ -52,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soraiya11-7&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
-## :rocket: **I Code With**
+## :rocket: **My Tech Stack**
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
