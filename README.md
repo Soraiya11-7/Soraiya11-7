@@ -81,7 +81,7 @@
   </a>
 </p>
 
-## :wrench: **Tools**
+## 🛠 **Tools**
 
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
