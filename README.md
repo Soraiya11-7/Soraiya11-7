@@ -116,7 +116,7 @@
 ###
 
 
-[![Soraya Parvin's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soraiya11-7&theme=vue)](https://github.com/Soraiya11-7/github-readme-activity-graph)
+[![Soraya Parvin's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soraiya11-7&theme=react-dark)](https://github.com/Soraiya11-7/github-readme-activity-graph)
 
 ###
 
