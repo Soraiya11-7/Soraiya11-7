@@ -95,6 +95,10 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" alt="Git" />
   </a>
+  <a href="https://www.postman.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40" alt="Postman" />
+</a>
+
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
     <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" height="40" alt="MATLAB" />
   </a>
