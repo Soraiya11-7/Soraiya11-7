@@ -107,7 +107,7 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="40" alt="facebook logo" />
 </a>
 
-<a href="https://www.linkedin.com/in/mt-soraya-parvin-49472b363/" target="blank">
+<a href="https://www.linkedin.com/in/mt-soraya-parvin-a4430536b/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo" />
 </a>
 
