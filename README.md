@@ -29,7 +29,7 @@
 
 - ✨ I’m working on improving my front-end skills with React and Tailwind CSS to create dynamic and responsive designs.
 - ✨ I am improving my backend skills with Node.js and MongoDB to work on full-stack applications.
-- 🚀 Exploring 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭, 𝐑𝐞𝐝𝐮𝐱, 𝐍𝐞𝐱𝐭.𝐣𝐬, and the latest advancements in frontend technologies for building fast and scalable web applications.
+- 🚀 Exploring 𝐑𝐞𝐝𝐮𝐱, 𝐍𝐞𝐱𝐭.𝐣𝐬, and the latest advancements in frontend technologies for building fast and scalable web applications.
 
 
 
