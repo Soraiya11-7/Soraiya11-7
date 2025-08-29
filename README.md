@@ -18,7 +18,7 @@
 
 
 
-<h2 align="left">:bust_in_silhouette: About Me</h2>
+<h2 align="left">:briefcase: About Me</h2>
 
 ###
 <p className="text-lg mb-8">
