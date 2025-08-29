@@ -18,7 +18,7 @@
 
 
 
-<h2 align="left">:identification_card: About Me</h2>
+<h2 align="left">:memo: About Me</h2>
 
 ###
 <p className="text-lg mb-8">
