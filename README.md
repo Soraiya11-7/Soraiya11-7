@@ -33,6 +33,7 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍-𝐒𝐭𝐚𝐜𝐤 𝐃�
 
 
 ![](https://komarev.com/ghpvc/?username=Soraiya11-7&color=brightgreen&style=for-the-badge&abbreviated=true)
+###
 
 <!-- Problem Solving Profiles Section -->
 <h2 align="left">:trophy: Problem Solving Profiles</h2>
