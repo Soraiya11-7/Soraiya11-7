@@ -22,12 +22,12 @@
 
 ###
 <p className="text-lg mb-8">
- I am a passionate 𝐌𝐄𝐑𝐍-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 specializing in 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭. I believe in continuous learning and enjoy working on challenging projects. In my free time, I like reading religious books and solving puzzles, which help me stay balanced and inspired.  My skills include working with 𝐑𝐞𝐚𝐜𝐭, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐌𝐨𝐧𝐠𝐨𝐃𝐁, and 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒 to develop modern full-stack applications. I am always eager to explore new technologies and improve my craft. 
+I craft user-centric solutions as a 𝐌𝐄𝐑𝐍-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 , specializing in 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭. I believe in continuous learning and enjoy working on challenging projects. In my free time, I like reading religious books and solving puzzles, which help me stay balanced and inspired.  My skills include working with 𝐑𝐞𝐚𝐜𝐭, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐌𝐨𝐧𝐠𝐨𝐃𝐁, and 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒 to develop modern full-stack applications. I am always eager to explore new technologies and improve my craft. 
 </p>
 
  :zap: **Current Activities:**
 
-- ✨ I’m working on improving my front-end skills with React and Tailwind CSS to create dynamic and responsive designs.
+- ✨ I'm working to improve my problem-solving skills to deliver highly efficient and optimized web solutions.
 - ✨ I am improving my backend skills with Node.js and MongoDB to work on full-stack applications.
 - 🚀 Exploring 𝐑𝐞𝐝𝐮𝐱, 𝐍𝐞𝐱𝐭.𝐣𝐬, and the latest advancements in frontend technologies for building fast and scalable web applications.
 
