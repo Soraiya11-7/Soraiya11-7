@@ -10,13 +10,13 @@
   <h1>
     Hi 
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" style="vertical-align: middle;" />
-    , I am Soraya Parvin
+    , I am Mt. Soraya Parvin
   </h1>
   <h3 style="font-size: 20px;">A MERN-Stack Developer & Problem Solver from 🇧🇩</h3>
 </div>
 
 
-
+![](https://komarev.com/ghpvc/?username=Soraiya11-7&color=dc143c&style=for-the-badge&abbreviated=true)
 
 <h2 align="left">:bust_in_silhouette: About Me</h2>
 
