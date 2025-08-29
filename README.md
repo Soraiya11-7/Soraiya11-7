@@ -16,7 +16,7 @@
 </div>
 
 
-![](https://komarev.com/ghpvc/?username=Soraiya11-7&color=dc143c&style=for-the-badge&abbreviated=true)
+
 
 <h2 align="left">:bust_in_silhouette: About Me</h2>
 
@@ -32,7 +32,7 @@
 - 🚀 Exploring 𝐑𝐞𝐝𝐮𝐱, 𝐍𝐞𝐱𝐭.𝐣𝐬, and the latest advancements in frontend technologies for building fast and scalable web applications.
 
 
-
+![](https://komarev.com/ghpvc/?username=Soraiya11-7&color=brightgreen&style=for-the-badge&abbreviated=true)
 ###
 
 <div align="center">
