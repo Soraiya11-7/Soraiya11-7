@@ -15,9 +15,6 @@
   <h3 style="font-size: 20px;">A MERN-Stack Developer & Problem Solver from 🇧🇩</h3>
 </div>
 
-
-
-
 <h2 align="left">:memo: About Me</h2>
 
 ###
@@ -31,6 +28,7 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍-𝐒𝐭𝐚𝐜𝐤 𝐃�
 - ✨ I am improving my backend skills with Node.js and MongoDB to work on full-stack applications.
 - 🚀 Exploring 𝐑𝐞𝐝𝐮𝐱, 𝐍𝐞𝐱𝐭.𝐣𝐬, and the latest advancements in frontend technologies for building fast and scalable web applications.
 
+<!--Profiles View Count -->
 
 ![](https://komarev.com/ghpvc/?username=Soraiya11-7&color=brightgreen&style=for-the-badge&abbreviated=true)
 ###
