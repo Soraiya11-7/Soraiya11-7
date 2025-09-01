@@ -7,7 +7,7 @@
   <h1>
     Hi 
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" style="vertical-align: middle;" />
-    , I am Mt. Soraya Parvin
+    , I'm Mt. Soraya Parvin
   </h1>
   <h3 style="font-size: 20px;">A MERN-Stack Developer & Problem Solver from 🇧🇩</h3>
 </div>
@@ -139,14 +139,6 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍-𝐒𝐭𝐚𝐜𝐤 𝐃�
 [![Soraya Parvin's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soraiya11-7&theme=react-dark)](https://github.com/Soraiya11-7/github-readme-activity-graph)
 
 ###
-
-
-
-
-
-
-
-
 
 
 <!--
