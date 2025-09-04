@@ -122,7 +122,6 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍-𝐒𝐭𝐚𝐜𝐤 𝐃�
 
 ###
 
-
 <p align="center">
 <a href="https://www.facebook.com/sp.jainab.7" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="40" alt="facebook logo" />
@@ -140,7 +139,6 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍-𝐒𝐭𝐚𝐜𝐤 𝐃�
 [![Soraya Parvin's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soraiya11-7&theme=react-dark)](https://github.com/Soraiya11-7/github-readme-activity-graph)
 
 ###
-
 
 <!--
 **Soraiya11-7/Soraiya11-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
