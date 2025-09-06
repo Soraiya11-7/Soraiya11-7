@@ -14,7 +14,7 @@
   <h3 style="font-size: 20px;">A MERN-Stack Developer & Problem Solver from 🇧🇩</h3>
 </div>
 
-<h2 align="left">:memo: About Me</h2>
+<h2 align="left">:memo: About Me </h2>
 
 ###
 <p className="text-lg mb-8">
