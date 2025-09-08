@@ -54,8 +54,6 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍-𝐒𝐭𝐚𝐜𝐤 𝐃�
   <h2 align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="32" style="vertical-align: middle;" />
     My GitHub Stats 
-    
-  </h2>
   </h2>
 
   <h4>Streak Data</h4>
