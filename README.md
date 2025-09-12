@@ -48,7 +48,6 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃�
 </div>
 
 ###
-
 <div align="center">
   <h2 align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="32" style="vertical-align: middle;" />
@@ -119,7 +118,6 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃�
 <h2 align="left"> :handshake: Connect With Me</h2>
 
 ###
-
 <p align="center">
 <a href="https://www.facebook.com/sp.jainab.7" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="40" alt="facebook logo" />
