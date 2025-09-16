@@ -127,7 +127,6 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃�
 <a href="https://www.linkedin.com/in/mt-soraya-parvin-a4430536b/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo" />
 </a>
-
 </p>
 
 ###
