@@ -1,5 +1,5 @@
 <div align="center" style="width: 100%; overflow: hidden;">
-  <img src="https://github.com/Soraiya11-7/Soraiya11-7/blob/main/mern.png"
+  <img src="https://github.com/Soraiya11-7/Soraiya11-7/blob/main/MERN_.png"
        style="width: 100%; height: auto; object-fit: cover;" />
 </div>
 
