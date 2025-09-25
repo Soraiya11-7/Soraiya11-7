@@ -50,7 +50,6 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃�
   </a>
 </div>
 
-
 ###
 <div align="center">
   <h2 align="left">
