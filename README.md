@@ -11,7 +11,7 @@
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" style="vertical-align: middle;" />
     , I'm Mt. Soraya Parvin
   </h1>
-  <h3 style="font-size: 20px;">A MERN-Stack Developer & Problem Solver from 🇧🇩</h3>
+  <h3 style="font-size: 20px;">A MERN Stack Developer & Problem Solver from 🇧🇩</h3>
 </div>
 
 <h2 align="left">:memo: About Me </h2>
