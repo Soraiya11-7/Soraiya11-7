@@ -5,8 +5,6 @@
 
 ###
 
-
-
 <div align="center">
   <h1>
     Hi 
@@ -80,7 +78,6 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃�
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" alt="JavaScript" />
   </a>
 
-  
   <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="40" alt="TypeScript" />
 </a>
