@@ -5,6 +5,7 @@
 
 ###
 
+
 <div align="center">
   <h1>
     Hi 
@@ -17,6 +18,7 @@
 <h2 align="left">:memo: About Me </h2>
 
 ###
+
 
 <p className="text-lg mb-8">
 I craft user-centric solutions as a 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, specializing in 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭. I believe in continuous learning and enjoy working on challenging projects. In my free time, I like reading religious books and solving puzzles, which help me stay balanced and inspired. My skills include working with 𝐑𝐞𝐚𝐜𝐭, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐌𝐨𝐧𝐠𝐨𝐃𝐁, and 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒 to develop modern full-stack applications. I'm always eager to explore new technologies and improve my craft. 
@@ -103,6 +105,7 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃�
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="40" alt="MongoDB" />
   </a>
+
   
   <a href="https://en.cppreference.com/w/" target="_blank">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" alt="C++" />
@@ -144,6 +147,7 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃�
 <a href="https://www.linkedin.com/in/mt-soraya-parvin-a4430536b/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo" />
 </a>
+
 </p>
 
 ###
@@ -165,4 +169,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
