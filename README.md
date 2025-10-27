@@ -56,6 +56,7 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃�
 
 ###
 
+
 <div align="center">
   <h2 align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="32" style="vertical-align: middle;" />
@@ -65,14 +66,17 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃�
   <h4>Streak Data</h4>
   <img src="https://nirzak-streak-stats.vercel.app?user=Soraiya11-7&theme=github-dark" alt="GitHub Streak" />
 
+
   <h4>Number of Contributions</h4>
   <img src="https://github-readme-stats.vercel.app/api?username=Soraiya11-7&show_icons=true&count_private=true&theme=dark" alt="GitHub Contributions" />
+
 
   <h4>Languages Used</h4>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soraiya11-7&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ## :rocket: **My Tech Stack**
+
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
