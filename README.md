@@ -26,7 +26,7 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃�
 
 - ✨ I'm working to improve my problem-solving skills to deliver highly efficient and optimized web solutions.
 - ✨ I am improving my backend skills with Node.js and MongoDB to work on full-stack applications.
-- 🚀 Exploring 𝐑𝐞𝐝𝐮𝐱, 𝐍𝐞𝐱𝐭.𝐣𝐬, and the latest advancements in frontend technologies for building fast and scalable web applications.
+- 🚀 Exploring 𝐍𝐞𝐱𝐭.𝐣𝐬 and the latest advancements in frontend technologies for building fast and scalable web applications.
 
 <!--Profiles View Count -->
 
