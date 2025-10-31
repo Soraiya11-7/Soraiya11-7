@@ -32,6 +32,7 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃�
 
 ![](https://komarev.com/ghpvc/?username=Soraiya11-7&color=brightgreen&style=for-the-badge&abbreviated=true)
 
+
 ###
 
 
@@ -74,7 +75,6 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃�
 
 ## :rocket: **My Tech Stack**
 
-
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="40" alt="React" />
@@ -96,12 +96,10 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃�
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="HTML5" />
   </a>
 
-  
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" alt="CSS3" />
   </a>
 
-  
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="40" alt="MongoDB" />
   </a>
