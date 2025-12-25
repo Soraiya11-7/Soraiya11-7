@@ -31,7 +31,7 @@ I craft user-centric solutions as a 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃�
  :zap: **Current Activities:**
 
 - ✨ I'm working to improve my problem-solving skills to deliver highly efficient and optimized web solutions.
-- ✨ I am improving my backend skills with Node.js and MongoDB to work on full-stack applications.
+- ✨ I am improving my backend skills with Node.js and Postgresql to work on full-stack applications.
 - 🚀 Exploring **Prisma-ORM** **Postgresql**, 𝐍𝐞𝐱𝐭.𝐣𝐬, **TypeScript** and full-stack advancements for building fast, scalable web applications.
 
 <!--Profiles View Count -->
